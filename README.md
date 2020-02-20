@@ -33,6 +33,7 @@ F-- Surface, Graph and Risk Level--> T[Surface]
 H -- Graph, Result -->T
 ```
 
+
 - First  of all we need an Antecedent for input variables and Consequent for output variables.
 - We need put this variables on 0-1 space with a membership. 
 - - For Antecedent we will use .automf() funtion of scifuzzy library.
